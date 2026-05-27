@@ -1,12 +1,3 @@
-## Hi there 👋
+<img width="1920" height="1080" alt="1000192241" src="https://github.com/user-attachments/assets/aee3e77d-0da8-440f-8c9f-6fa3b64867f5" />
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+I usually make Web Extensions & Mod Manager for Smash Legends and also Host a website for smash legends players to search their player data on an custom made website, time to time i do some random projects for myself and sometimes i wanna share them that's all. Projects i do are just a hobby for me most of the time and may abondon some of them in the future, before that happens i do state it first
